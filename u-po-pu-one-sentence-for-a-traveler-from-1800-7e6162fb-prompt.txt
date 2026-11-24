@@ -1,0 +1,8 @@
+Kamu builder make.fun untuk bounty "One Sentence for a Traveler from 1800" (meja Rama). Bangun entry-nya sampai SELESAI (build + check lokal lolos), lalu LAPORKAN kembali ke aku. JANGAN push, JANGAN submit — repo belum ada (parent yang buat via browser setelah laporanmu). JANGAN posting ke X/TikTok/sosial apa pun. JANGAN bayar fee apa pun.
+
+DATA BOUNTY (diverifikasi koordinator via API live 24 Nov ~14:30 WIB):
+- Slug: u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb
+- Judul: One Sentence for a Traveler from 1800. Sponsor Po Pu (UNVERIFIED). Hadiah $2 USDC top 10 (juara 1 $0,63, 2 $0,43, 3 $0,30). Fee $0.
+- opensAt: 2026-11-24T05:22:57Z (= 12:22:57 WIB — SUDAH LEWAT, recording/build boleh mulai sekarang). Deadline/entries_close: 2026-11-24T19:25:00Z (= 25 Nov 02:25 WIB). Blind round 1 dari 3, cutoff R1 2026-11-24T10:03:38Z (= 17:03:38 WIB hari ini). submissionCount live ~1.560 dan naik cepat.
+- Tugas: SATU kalimat, MAKSIMAL 200 karakter, yang menjelaskan internet modern kepada seorang penjelajah waktu yang baru keluar dari tahun 1800. Kalimat harus berdiri sendiri: TIDAK BOLEH ada kata yang diciptakan setelah zaman si penjelajah, BUKAN daftar fitur — hanya gambaran yang bisa mereka pegang di kepala. Judge model membandingkan entry dua-dua melawan judge brief.
+- Program menulis satu teks ke /output/entry.txt. Harness: program/v1.
